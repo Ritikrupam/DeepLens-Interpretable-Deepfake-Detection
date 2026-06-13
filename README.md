@@ -53,13 +53,12 @@ Images were preprocessed and resized to 224×224 resolution before training.
 
 ![Performance Table](assets/performance_table.png)
 
-### Performance Summary
+## Performance Summary
 
-| Model    | Train Accuracy | Validation Accuracy |
-| -------- | -------------- | ------------------- |
-| Xception | 96.24%         | 94.51%              |
-| ResNet50 | 98.26%         | 95.52%              |
-
+| Model | Train Accuracy | Validation Accuracy | Train Loss | Validation Loss |
+|---------|---------|---------|---------|---------|
+| Xception | 96.24% | 94.51% | 0.1505 | 0.1895 |
+| ResNet50 | 98.26% | 95.52% | 0.0689 | 0.1704 |
 ---
 
 ## Explainability using Grad-CAM++
