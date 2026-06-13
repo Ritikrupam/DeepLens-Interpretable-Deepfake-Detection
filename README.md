@@ -51,7 +51,7 @@ Images were preprocessed and resized to 224×224 resolution before training.
 
 ## Performance Results
 
-![Performance Table](assets/assets/performance_table.png.png)
+![Performance Table](assets/performance_table.png)
 
 ## Performance Summary
 
